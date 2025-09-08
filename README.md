@@ -2,7 +2,7 @@
 
 AgentX is a comprehensive AI assistant platform that allows users to upload documents, create custom AI models, and interact with intelligent chatbots. Built with React.js frontend and Express.js backend, integrated with Google Gemini AI.
 
-## Features
+# Features
 
 - 🤖 **AI Chat Interface**: Interactive chat with Google Gemini AI
 - 📄 **Document Upload**: Upload and process PDF/text documents  
@@ -11,7 +11,7 @@ AgentX is a comprehensive AI assistant platform that allows users to upload docu
 - 📊 **Dashboard**: Manage your AI assistants and documents
 - 🎨 **Modern UI**: Beautiful, responsive interface with animations
 
-## Tech Stack
+# Tech Stack
 
 ### Frontend
 - React.js
@@ -19,14 +19,14 @@ AgentX is a comprehensive AI assistant platform that allows users to upload docu
 - Tailwind CSS (styling)
 - Lucide React (icons)
 
-### Backend
+# Backend
 - Express.js
 - Google Generative AI (Gemini)
 - Multer (file uploads)
 - PDF parsing
 - JSON-based data storage
 
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
