@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+App/node_modules/
+backend/node_modules/
+
+# Environment variables
+.env
+Credentials.json
+
+# Logs
+*.log
+server.log
+
+# Local data files
+saved_llms.json
+users_local.json
+data/
+uploads/
+temp_data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
