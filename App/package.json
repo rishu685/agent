@@ -1,6 +1,9 @@
 {
-  "name": "app",
+  "name": "agentx-frontend",
   "version": "0.1.0",
+  "description": "React.js frontend for AgentX AI assistant platform",
+  "author": "rishu685",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.1.2",
