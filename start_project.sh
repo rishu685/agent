@@ -46,7 +46,7 @@ echo "Backend logs: tail -f ../backend.log"
 # Keep script running
 waitsh
 
-echo "Starting AgentX Project..."
+echo "Starting Agentx Project.."
 
 # Activate virtual environment
 source venv/bin/activate
@@ -71,10 +71,10 @@ FRONTEND_PID=$!
 sleep 3
 
 echo ""
-echo "🚀 AgentX is now running!"
-echo "📱 Frontend: http://localhost:3000"
-echo "🔧 Server1 (Auth): http://localhost:5000"
-echo "🤖 Server2 (AI): http://localhost:5001"
+echo " AgentX is now running!"
+echo " Frontend: http://localhost:3000"
+echo " Server1 (Auth): http://localhost:5000"
+echo " Server2 (AI): http://localhost:5001"
 echo ""
 echo "Press Ctrl+C to stop all services"
 

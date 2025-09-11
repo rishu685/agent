@@ -29,9 +29,9 @@ const createDirectories = async () => {
     await fs.ensureDir('./data');
     await fs.ensureDir('./uploads');
     await fs.ensureDir('./temp_data');
-    console.log('✅ Required directories created');
+    console.log(' Required directories created');
   } catch (error) {
-    console.error('❌ Error creating directories:', error);
+    console.error(' Error creating directories:', error);
   }
 };
 

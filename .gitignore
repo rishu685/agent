@@ -4,6 +4,7 @@ App/node_modules/
 backend/node_modules/
 
 # Environment variables
+.env .local
 .env
 Credentials.json
 
