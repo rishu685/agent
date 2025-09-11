@@ -1,3 +1,10 @@
+#DEMO:
+
+
+https://github.com/user-attachments/assets/88f87a20-be95-4529-83b0-513be4eb470d
+
+
+
 # AgentX - AI Assistant Platform
 
 AgentX is a comprehensive AI assistant platform that allows users to upload documents, create custom AI models, and interact with intelligent chatbots. Built with React.js frontend and Express.js backend, integrated with Google Gemini AI.
