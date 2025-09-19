@@ -9,7 +9,7 @@ require('dotenv').config();
 
 // Import route modules
 const authRoutes = require('./routes/auth');
-const llmRoutes = require('./routes/llm');
+const llmRoutes = require('./routes/llm[');
 const queryRoutes = require('./routes/query');
 const uploadRoutes = require('./routes/upload');
 
