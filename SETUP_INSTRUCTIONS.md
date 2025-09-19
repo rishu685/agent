@@ -13,7 +13,7 @@
 1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Create a new API key
 3. Create a `.env` file in the root directory
-4. Add your API key:
+4. Add your API key;
 ```
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
